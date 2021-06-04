@@ -43,6 +43,16 @@ git switch = git checkout
 
 
 
+git switch -c 'name' 
+
+생성후 해당 이름으로 이동
+
+
+
  git merge 
 
 병합
+
+
+
+![image-20210604114637998](README.assets/image-20210604114637998.png)
