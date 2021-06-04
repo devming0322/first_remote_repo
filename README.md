@@ -40,3 +40,9 @@ B : 팀원
 git switch = git checkout
 
 같은 기능으로 동작함
+
+
+
+ git merge 
+
+병합
