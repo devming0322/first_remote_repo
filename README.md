@@ -49,6 +49,12 @@ git switch -c 'name'
 
 
 
+git branch
+
+현재 존재하난 branch 확인
+
+
+
  git merge 
 
 병합
